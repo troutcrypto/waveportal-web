@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It contains the frontend for a [waveportal](https://github.com/troutcrypto/waveportal).
 
 ## Running on Repl.it
 
